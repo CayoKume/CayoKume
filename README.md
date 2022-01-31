@@ -24,6 +24,4 @@
   <a href="https://api.whatsapp.com/send?phone=+5511964217192&amp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <img align="right" src="https://media.giphy.com/media/l41YouCUUcreUabHW/giphy.gif" height="150px" width="250px"/>	
   
-  ![Snake animation](https://github.com/cayokume/cayokume/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
